@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero {
+  background-image: url("https://picsum.photos/id/1025/600/400");
+  background-repeat: none;
+  background-size: cover;
+  height: 25vh;
+}
